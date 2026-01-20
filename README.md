@@ -14,19 +14,6 @@ Objectives
 * Maintain proper documentation and data traceability
 * Present the complete workflow in a structured GitHub portfolio
 
-Folder Structure
-
-clinical_trial_data_analysis/
-│
-├── CDISC_SDTM        CDISC SDTM mapped datasets (DM, AE, QS)
-├── Cleaned_Data      Cleaned and standardized clinical data
-├── Documentation     Project documentation and data cleaning log
-├── Listings          Patient-level listings
-├── SAS_Output        Placeholder for SAS outputs
-├── SQL_Queries       Placeholder for SQL queries
-├── Screenshots       Visual evidence of cleaning, analysis, charts, and structure
-└── README.md         Project overview
-
  Data Cleaning
 
  Standardized categorical values (e.g., Yes / No)
